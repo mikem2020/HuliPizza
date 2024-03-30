@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Huli Italian Pizza Company")
-            Text("Order Pizza")
+            Text("Order More Pizza")
         }
         .padding()
     }
